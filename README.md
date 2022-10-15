@@ -1,1 +1,1 @@
-Daily Code Challenging Using Java & Python.
+Daily Code Challenging Using Java.
